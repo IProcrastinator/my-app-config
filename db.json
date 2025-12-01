@@ -1,6 +1,4 @@
 {
-  "config": {
-    "appEnabled": true,
-    "validUntil": "2025-12-01 11:25:00"
-  }
+  "appEnabled": true,
+  "validUntil": "2025-12-01 11:04:00"
 }
